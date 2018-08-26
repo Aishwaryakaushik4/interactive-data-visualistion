@@ -8,12 +8,12 @@
     "test": "mocha"
   },
 
-  "license": "ISC", 
-
+  
   "dependencies": {
     "express": "4.16.0"
   },
-
+  "author":"Aishwaryakaushik4",
+  "license": "ISC", 
   "engines": {
     "node": "8.11.4",
     "npm": "5.6.0"
